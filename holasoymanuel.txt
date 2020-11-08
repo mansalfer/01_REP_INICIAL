@@ -1,5 +1,6 @@
 HoSala Git!
 
 Soy Manuel ¿Qué tal va la vida? haciendo pruebas con Git en la nube?
+Ahora cambio en local en notepad++
 
 Saludos
